@@ -1,0 +1,60 @@
+body {
+    font-family: monospace;
+    background-color: #282c34;
+    color: #61dafb;
+    margin: 0;
+}
+
+.preAdjust{
+    display: flex;
+    align-items: center;
+}
+.preImage{
+    border: 2px solid red;
+    
+}
+
+.text-style {
+    color: #61dafb;
+    margin-left: 15px;
+    font-size: 23px;
+}
+
+.parent {
+    width: 60%;
+    margin: 20px;
+    display: flex;
+    flex-direction: column; 
+}
+
+.cli-line {
+    display: flex;
+    align-items: center;
+    margin-top: 10px;
+}
+
+.root {
+    font-weight: bold;
+    font-size: 18px;
+    color: indianred;
+    margin-right: 10px; 
+}
+
+.commandInput {
+    background: none;
+    border: none;
+    font-size: 18px;
+    color: #61dafb;
+    font-family: monospace;
+    resize: none;
+    outline: none;
+    width: 100%;
+    overflow: hidden; 
+    white-space: nowrap; 
+}
+
+.output {
+    font-size: 20px;
+    color: #d1cdcd;
+    margin-top: 10px;
+}
