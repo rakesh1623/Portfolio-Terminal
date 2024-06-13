@@ -2,7 +2,11 @@
 
 <p align="center"><img src="demo.png" alt="project-image"></p>
 
-<p id="description">Portfolio website on a terminal based theme. There is in depth DOM manipulation with the help of js</p>
+<p id="description">Portfolio website on a terminal based theme. There is in depth DOM manipulation with the help of js.</p>
+
+<p> If you are viewing it in a mobile phone then you have to switch to desktop mode.</p>
+
+<p> Thank You </p>
 
 <h2>🚀 Demo</h2>
 
